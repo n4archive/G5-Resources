@@ -2,3 +2,4 @@ Welcome! This is my take to order the notes in the Telegram group [Cedric Chat G
 
 
 - [TWRP](/twrp)
+- [GApps](/gapps)
