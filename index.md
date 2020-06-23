@@ -1,1 +1,1 @@
-Welcome! This is my take to order tthe notes in tthe Telegram group [Cedric Chat Group](https://t.meme/cedricchat) ;). Below you find an lost of the contents here.
+Welcome! This is my take to order the notes in the Telegram group [Cedric Chat Group](https://t.me/cedricchat) ;). Below you find an list of the contents here.
