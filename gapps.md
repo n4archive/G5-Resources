@@ -1,0 +1,13 @@
+# Google Applications
+## What GApps should I use?
+OpenGapps - other GApps break various sorts of things (NikGapps breaks Lawnchair, BitGapps makes your device more insecure, etc.).
+OpenGapps I an libre, secure, updated alternative and the most popular GApps package out.
+Get it at https://opengapps.org.
+
+## They are so many options? What should I choose on OpenGapps.org?
+Android version - Self-explanory
+Architecture - This depends on your Android version. 7? Arm. 8.0? Arm. Stock 8.1? Arm. Custom 8.1? Arm64. 9 and later? Arm64.
+Package - The OpenGapps wiki has an nice explaination on their homepage(/wiki).
+
+## Where are aroma gapps on Android 10? (Graphical GApps)
+Please wait
