@@ -11,4 +11,4 @@ Get it at https://opengapps.org.
 - Package - The OpenGapps wiki has [an nice explaination](https://github.com/opengapps/opengapps/wiki/Package-Comparison) on their homepage(/wiki).
 
 ## Where are aroma gapps on Android 10? (Graphical GApps)
-Please wait
+https://sourceforge.net/projects/opengapps/files/arm64/test/20200608/open_gapps-arm64-10.0-aroma-20200608-TEST.zip/download
