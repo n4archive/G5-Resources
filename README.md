@@ -1,3 +1,9 @@
+# G5 resources
+
+http://cedric.nift4.tk
+
+----------------
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nift4/G5-Resources/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
