@@ -9,6 +9,3 @@ Get it at [their homepage](https://opengapps.org).
 - Android version - Self-explanory
 - Architecture - This depends on your Android version. 7? Arm. 8.0? Arm. Stock 8.1? Arm. Custom 8.1? Arm64. 9 and later? Arm64.
 - Package - The OpenGapps wiki has [an nice explaination](https://github.com/opengapps/opengapps/wiki/Package-Comparison) on their homepage(/wiki).
-
-## Where are aroma gapps on Android 10? (Graphical GApps)
-[Here.](https://sourceforge.net/projects/opengapps/files/arm64/test/20200608/open_gapps-arm64-10.0-aroma-20200608-TEST.zip/download)
